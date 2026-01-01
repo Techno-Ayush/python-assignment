@@ -566,9 +566,3 @@ minikube delete
 This deployment demonstrates production-ready patterns including high availability (multiple replicas), autoscaling (HPA), data persistence (StatefulSet with PVC), security (secrets management), and efficient resource utilization. The setup is fully functional on Minikube and can be adapted for production with minimal changes.
 
 ---
-
-## Author
-
-**Name:** Ayush Goyal  
-**Date:** January 2026  
-**Project:** Kubernetes Flask-MongoDB Deployment
